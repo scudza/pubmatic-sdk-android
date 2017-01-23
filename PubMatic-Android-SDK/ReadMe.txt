@@ -1,4 +1,4 @@
-Welcome to the PubMatic Mobile SDK package for Android, version 5.0.3
+Welcome to the PubMatic Mobile SDK package for Android, version 5.1.1
 /*
  * PubMatic Inc. ("PubMatic") CONFIDENTIAL
  * Unpublished Copyright (c) 2006-2016 PubMatic, All Rights Reserved.
