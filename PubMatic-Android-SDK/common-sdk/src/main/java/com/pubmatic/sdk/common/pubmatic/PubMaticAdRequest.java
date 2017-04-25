@@ -278,7 +278,6 @@ public abstract class PubMaticAdRequest extends AdRequest {
                         PubMaticConstants.URL_ENCODING));
             }
 
-            putPostData(PubMaticConstants.AD_TYPE_PARAM, String.valueOf(11));//For Text and Image and Rich Media ads
             putPostData(PubMaticConstants.DNT_PARAM, String.valueOf(mDoNotTrack ? 1 : 0));
             putPostData(PubMaticConstants.COPPA_PARAM, String.valueOf(mCoppa ? 1 : 0));
             putPostData(PubMaticConstants.STORE_URL_PARAM, mStoreURL);
